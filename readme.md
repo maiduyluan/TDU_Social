@@ -6,5 +6,3 @@
 - TypeScript
 
 ## --------------
-
-asdidf
