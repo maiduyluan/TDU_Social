@@ -1,0 +1,8 @@
+{
+  "name": "TDU-Social",
+  "version": "1.0.0",
+  "description": "Mini social network TDU",
+  "main": "src/server.js",
+  "author": "Duy Luan",
+  "license": "MIT"
+}
